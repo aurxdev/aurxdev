@@ -1,4 +1,24 @@
-### Hi there 👋
+# Hi there 👋
+
+# Aurélien Teilhet
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40aurelien--teilhet-blue)](https://www.linkedin.com/in/aurelien-teilhet)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aurxdev.github.io-brightgreen)](https://aurxdev.github.io)
+
+## 📚 Currently in Computer Science Degree at University of Artois
+
+## 💻 Technical Skills
+
+- **Languages**
+  - Java, Python, HTML, CSS, JavaScript, PHP
+
+- **Frameworks/Technologies**
+  - Swing, Vue.js, MySQL
+
+---
+
+*I am passionate about programming and algorithmic problem-solving. Feel free to contact me to discuss about projects.*
+
 
 <!--
 **aurxdev/aurxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
