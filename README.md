@@ -10,10 +10,10 @@
 ## 💻 Technical Skills
 
 - **Languages**
-  - Java, Python, HTML, CSS, JavaScript, PHP
+  - C, Java, Python, HTML, CSS, JavaScript, PHP
 
 - **Frameworks/Technologies**
-  - Swing, Vue.js, MySQL
+  - Swing, Vue.js, MySQL, SDL
 
 ---
 
