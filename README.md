@@ -17,7 +17,7 @@
 
 ---
 
-*I am passionate about programming and algorithmic problem-solving. Feel free to contact me to discuss about projects.*
+*I am passionate about programming and IA. Feel free to contact me to discuss about projects.*
 
 
 <!--
