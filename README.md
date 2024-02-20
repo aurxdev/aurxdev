@@ -7,7 +7,7 @@
 
 ## 📚 Currently in Computer Science Degree at University of Artois
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurxdev&theme=gradient&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurxdev&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurxdev&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 *I am passionate about programming and IA. Feel free to contact me to discuss about projects.*
