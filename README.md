@@ -1,7 +1,5 @@
 # Hi there 👋
 
-# Aurélien Teilhet
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40aurelien--teilhet-blue)](https://www.linkedin.com/in/aurelien-teilhet)
 [![Portfolio](https://img.shields.io/badge/Portfolio-aurxdev.github.io-brightgreen)](https://aurxdev.github.io)
 
