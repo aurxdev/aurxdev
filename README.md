@@ -5,6 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40aurelien--teilhet-blue)](https://www.linkedin.com/in/aurelien-teilhet)
 [![Portfolio](https://img.shields.io/badge/Portfolio-aurxdev.github.io-brightgreen)](https://aurxdev.github.io)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurxdev)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📚 Currently in Computer Science Degree at University of Artois
 
 ## 💻 Technical Skills
