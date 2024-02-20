@@ -6,6 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-aurxdev.github.io-brightgreen)](https://aurxdev.github.io)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurxdev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurxdev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Currently in Computer Science Degree at University of Artois
 
